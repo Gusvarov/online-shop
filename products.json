@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Your own Dinosaur",
+        "image": "dinosaur.png",
+        "description": "You can buy your own dinosaur",
+        "price": 499999.99
     }
 ]
